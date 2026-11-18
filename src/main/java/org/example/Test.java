@@ -4,5 +4,6 @@ public class Test {
 
 
 int a=2;
+//Komentar 2
 
 }
